@@ -1,4 +1,4 @@
 # spring-shell-demo
-Spring boot 3
-JDK 19
-Spring shell
+1. Spring boot 3
+2. JDK 19
+3. Spring shell
